@@ -1,2 +1,4 @@
-# drupal
-drupal docker setup
+# Set up Drupal
+Run deploy.sh script
+$ sh deploy.sh
+
